@@ -1,4 +1,4 @@
-# epay
+# Live Preview of Multiple Wysiwyg texts to Json array
 
 ## Project setup
 ```
